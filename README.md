@@ -1,2 +1,7 @@
 # Feature-Selection-Causal-Inference
-We propose an Outcome Adaptive Elastic-Net (OAENet) method specifically designed for causal inference to select the confounders and outcome predictors for inclusion in the propensity score model or in the matching mechanism
+
+Feature Selection for Causal Inference from High Dimensional Observational Data with Outcome Adaptive Elastic Net
+
+Authors: Md saiful Islam, Sahil Shikalgar, Md. Noor-E-Alam
+
+We propose an Outcome Adaptive Elastic-Net (OAENet) method specifically designed for causal inference to select the confounders and outcome predictors for inclusion in the propensity score model or in the matching mechanism.
